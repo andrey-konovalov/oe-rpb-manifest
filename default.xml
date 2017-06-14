@@ -18,6 +18,7 @@
   <project remote="github" name="openembedded/bitbake" path="bitbake" revision="1.32"/>
   <project remote="github" name="OSSystems/meta-browser" path="layers/meta-browser" revision="10f6e3778d823ee1be106c126216c6f941088fbf"/>
   <project remote="github" name="meta-qt5/meta-qt5" path="layers/meta-qt5"/>
+  <project remote="github" name="dv1/meta-gstreamer1.0" path="layers/meta-gstreamer1.0"/>
   <project remote="github" name="96boards/meta-96boards" path="layers/meta-96boards" />
   <project remote="github" name="96boards/meta-rpb" path="layers/meta-rpb"/>
   <project remote="github" name="linaro-home/meta-lhg" path="layers/meta-lhg" revision="master"/>
